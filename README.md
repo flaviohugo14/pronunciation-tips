@@ -8,7 +8,7 @@ Projeto de ensino desenvolvido em PHP, para aprendizado do Inglês.
 
  ---
  
-![Exercise 6](https://drive.google.com/open?id=1QimYnIj5jkaOvQ-t2q6Ubjq2GcUDmifa)
-![Exercise List](https://drive.google.com/open?id=1jv99wXlQrKgaDGNsaYg4Sjp7C9RouaAN)
+![Exercise 6](https://raw.githubusercontent.com/flaviohugo14/pronunciation-tips/master/exercise6.png)
+![Exercise List](https://raw.githubusercontent.com/flaviohugo14/pronunciation-tips/master/exercise6.png)
 
  ---
